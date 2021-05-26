@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "476043677553",
+    "project_id": "fitflex-efdd9",
+    "storage_bucket": "fitflex-efdd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476043677553:android:fea7f593eae57e7281b0d0",
+        "android_client_info": {
+          "package_name": "com.example.fitflex_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476043677553-b7d2ebscsr5v8lm22qqegucd3s2rqjlu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fitflex_app",
+            "certificate_hash": "9d234c52a334db35ffe2113af83fe528e7bb809c"
+          }
+        },
+        {
+          "client_id": "476043677553-nrjnjtcq950f68ngmm4o5o6u50h1jgso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoJCcpsZp4u3lTsTIMdF6k8leqIDXKv_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476043677553-nrjnjtcq950f68ngmm4o5o6u50h1jgso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
